@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaracalViewBotv3", "CaracalViewBotv3\CaracalViewBotv3.csproj", "{DF67E3DE-C906-4FA7-9769-BE76C541B485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF67E3DE-C906-4FA7-9769-BE76C541B485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF67E3DE-C906-4FA7-9769-BE76C541B485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF67E3DE-C906-4FA7-9769-BE76C541B485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF67E3DE-C906-4FA7-9769-BE76C541B485}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5D2005D-0319-4A47-9398-78A748B61897}
+	EndGlobalSection
+EndGlobal
